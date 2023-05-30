@@ -13,7 +13,7 @@ Fancy and minimal portfolio made on VUE JS and Tailwind CSS.
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/achmadzackyr/vue-tailwind-portfolio.git
 ```
 
 Go to the project directory
@@ -44,7 +44,7 @@ Build project is located on dist directory
 
 ## 🚀 About Me
 
-I'm a full stack developer...
+I'm a full stack developer. I have a keen interest in e-commerce and information technology. My aim is to help businesses or corporations to achieve their targets and to help people to solve their problems by implementing IT.
 
 ## 🔗 Links
 
@@ -52,4 +52,4 @@ I'm a full stack developer...
 
 ## Demo
 
-Link: 
+Link: https://achmadzackyr.github.io/vue-tailwind-portfolio/
